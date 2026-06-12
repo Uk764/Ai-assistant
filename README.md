@@ -191,8 +191,6 @@ The AI will remember the context and reply: *"Your name is John!"*
 | `GROQ_API_KEY` error | Check your `.env` file exists and the key is pasted correctly with no spaces |
 | Port 8000 already in use | Change `port=8000` to `port=8001` in `run.py` |
 
----
-
 ## 🛑 Stopping the Server
 
 Press `Ctrl + C` in the terminal to stop the server.
